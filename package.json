@@ -21,5 +21,13 @@
   "directories": {
     "doc": "docs"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaavilaa/meu-projeto.git"
+  },
+  "bugs": {
+    "url": "https://github.com/isaavilaa/meu-projeto/issues"
+  },
+  "homepage": "https://github.com/isaavilaa/meu-projeto#readme"
 }
